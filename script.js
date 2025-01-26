@@ -11,5 +11,3 @@ function getKeys(obj){
     }
     return arr;
 }
-
-console.log(getKeys(student));
